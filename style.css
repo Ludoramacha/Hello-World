@@ -1,14 +1,14 @@
 body{ 
       font-family: 'Verdana', sans-serif;
       color:#333;
-      background-colour:#f0f8ff;
+      background-colour:#ffe4e1;
       margin: 0;
       padding: 0;
       line-height: 1.6;
    }
   
 header{
-        background-color:#00008b;
+        background-color:#ff69b4;
         color:white;
         padding:20px;
         text-align:center;
@@ -28,7 +28,7 @@ main {
       padding:20px;
       max-width:800px
       margin:0 auto;
-      background-color: #ffffff; /* White */
+      background-color: #ffffff; 
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -37,9 +37,11 @@ main img{
          height:auto;
          display:block;
          margin:20px 0;
-         border: 5px solid #00008b;
+         border: 5px solid #ff69b4;
          border-radius: 50%;
          box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+         width:200px;
+         height:300px
 }
 footer{
       background-color:#000000;
@@ -54,7 +56,7 @@ footer{
 p{
       font-size:1.1em;
 }
-a{color:#00008b;
+a{color:#ff69b4;
   text-decoration:none;
  }
 
