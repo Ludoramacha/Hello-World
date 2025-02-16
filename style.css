@@ -1,7 +1,7 @@
 body{ 
       font-family: 'Verdana', sans-serif;
       color:#333;
-      bacground-colour:#f9f9f9
+      background-colour:#f9f9f9
       margin: 0;
       padding: 0;
       line-height: 1.6;
@@ -26,14 +26,14 @@ nav a:hover{
 }
 main {
       padding:20px;
-      maxwidth:800px
+      max-width:800px
       margin:0 auto;
 }
 main img{
-         max-width:100%
+         max-width:100%;
          height:auto;
          display:block;
-         margin:20 px 0;
+         margin:20px 0;
 }
 footer{
       background-color:#333;
