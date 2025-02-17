@@ -42,7 +42,7 @@ main img{
          display:block;
          margin:20px 0;
          border: 5px solid #ff69b4;
-         border-radius: 50%;
+         border-radius: 100%;
          box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
          width:200px;
          height:300px
